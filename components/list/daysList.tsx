@@ -8,10 +8,6 @@ const DaysList = () => {
 
   return (
     <div className="w-full">
-      <button className="flex items-center justify-center w-full h-[60px] border border-b-[#000] text-[18px] font-bold"
-              onClick={() => userJoin({email: 'real@naver.com', password: 123123})}>
-        test
-      </button>
       {
         days.map((v) => {
           return (

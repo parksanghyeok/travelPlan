@@ -2,7 +2,7 @@ import React from "react";
 
 const DayListItem = () => {
   return (
-    <li className="flex w-full h-[150px] mb-2 bg-[#fff] rounded-md shadow-listShadow">
+    <li className="flex w-full h-[150px] mb-2 bg-[#fff] rounded-md shadow-shadow021">
       <div className="w-[150px] h-full bg-[#ccc] rounded-l-md">
 
       </div>
